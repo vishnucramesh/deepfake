@@ -21,7 +21,7 @@ In this first approach, each image is transformed from a tensor of size (32, 32,
 
 In this second approach, original images of size (32, 32, 3) are fed into the CNN. The Shannon information content is instead exploited by the addition of a regularization therm R.T.(·) to the Categorical Crossentropy loss. 
 
-To reproduce and get deep intuition simply run the notebook file with Google Colab or same!.
+To reproduce and get deep intuition simply run the notebook file with Google Colab or same!
 
 
 ## License
